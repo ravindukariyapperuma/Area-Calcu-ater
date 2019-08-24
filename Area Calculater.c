@@ -3,6 +3,7 @@ int main(void)
 {
         float ss, bs, h, r, area;
 	char pn;
+
 	printf("Enter Choise : ");
 	scanf(" %c", &pn);
 
